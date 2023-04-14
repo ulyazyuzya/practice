@@ -1,0 +1,36 @@
+.html {
+    font-family: 'times new roman', palatino linotype, athena, tahom;
+}
+
+body {
+    background-color: rgb(255, 255, 224);
+    margin: 20px;
+}
+
+h1 {
+    font-size: 18pt;
+    color: rgb(204,0,0);
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: rgb(0,0,0);
+    text-align: left;
+}
+
+h3 {
+    color: rgb(204,0,0);
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-weight: 400;
+    font-size: 14px;
+    color: rgb(0,0,0);
+    text-align: left;
+}
